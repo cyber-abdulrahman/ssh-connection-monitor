@@ -22,3 +22,8 @@ A Bash script that analyzes SSH login activity from Linux authentication logs.
 Successful SSH Logins: 9
 
 Failed SSH Logins: 5
+
+## Usage
+
+chmod +x monitor.sh
+./monitor.sh
