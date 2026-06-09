@@ -26,4 +26,5 @@ Failed SSH Logins: 5
 ## Usage
 
 chmod +x monitor.sh
+
 ./monitor.sh
